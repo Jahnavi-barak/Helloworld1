@@ -8,10 +8,7 @@ namespace Helloworld1
 {
     class Program
     {
-        /// <summary>
-        /// Defines the helloworld
-        /// </summary>
-        /// <param name="args"></param>
+       
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
